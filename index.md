@@ -26,6 +26,8 @@ To provide the public with a deeper understanding of known and future discoverie
 Turkish Cypriot Physicists.
 
 
+  <a href="https://aovgun.weebly.com/ ">www.aovgun.com</a>
+
 North Cyprus Black Hole Physics Center is a virtual institute at North Cyprus. There is no office, but email and inquiries can be sent to the following e-mail address: 
 
   <a href="ovgun.ali@gmail.com ">ovgun.ali[at]gmail.com</a>

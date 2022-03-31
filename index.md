@@ -82,8 +82,8 @@ North Cyprus Black Hole Physics Center would have more in common the Centro de E
 
 Respectfully submitted,
 
- <img id="Ripple" src="https://res.cloudinary.com/teepublic/image/private/s--HOBz2DKq--/c_crop,x_10,y_10/c_fit,h_830/c_crop,g_north_west,h_1038,w_1038,x_-156,y_-104/l_upload:v1565806151:production:blanks:vdbwo35fw6qtflw9kezw/fl_layer_apply,g_north_west,x_-267,y_-215/b_rgb:000000/c_limit,f_jpg,h_630,q_90,w_630/v1561757839/production/designs/5187264_0.jpg"  width="200" height="200" /><br>
-      <a href="https://twitter.com/aovgun">
+  <a href="https://twitter.com/aovgun"> <img id="Ripple" src="https://res.cloudinary.com/teepublic/image/private/s--HOBz2DKq--/c_crop,x_10,y_10/c_fit,h_830/c_crop,g_north_west,h_1038,w_1038,x_-156,y_-104/l_upload:v1565806151:production:blanks:vdbwo35fw6qtflw9kezw/fl_layer_apply,g_north_west,x_-267,y_-215/b_rgb:000000/c_limit,f_jpg,h_630,q_90,w_630/v1561757839/production/designs/5187264_0.jpg"  width="200" height="200" /><br>
+    
 
 
 

@@ -84,7 +84,7 @@ North Cyprus Black Hole Physics Center would have more in common the Centro de E
 
 Respectfully submitted,
 
-  <a href="https://twitter.com/aovgun"> <img id="Ripple" src="https://getcrypto.info/images/logos/tether.png"  width="200" height="200" /><br>
+  <a href="https://blockchair.com/ethereum/address/0x0647e15488331537eb933191445d8e562ebd1ce3"> <img id="Ripple" src="https://getcrypto.info/images/logos/tether.png"  width="200" height="200" /><br>
     
 
 

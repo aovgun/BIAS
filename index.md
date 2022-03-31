@@ -85,8 +85,10 @@ North Cyprus Black Hole Physics Center would have more in common the Centro de E
 Respectfully submitted,
 
 Thank you for your support
- Accept USDT (ERC20)
-  <a href="https://blockchair.com/ethereum/address/0x0647e15488331537eb933191445d8e562ebd1ce3"> <img id="Ripple" src="https://getcrypto.info/images/logos/tether.png"  width="200" height="200" /><br>
+ Accept USDT (TRC20)
+  <a href="https://www.walletvalidator.com/usdt-trc20-wallet-validator/#TLDaicTAXM4FP3sjXyiQZE4skXRRkACpBG"> <img id="USDT" src="https://getcrypto.info/images/logos/tether.png"  width="200" height="200" /><br>
+ 
+ <a href='https://www.linkpicture.com/view.php?img=LPic6245d7b4dcddb1485431301'><img src='https://www.linkpicture.com/q/IMG_7630.jpg' type='image'></a>
     
 
 
